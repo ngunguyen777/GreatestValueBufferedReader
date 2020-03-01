@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29140ffa-4685-4fad-b8f2-05584f5377f5" name="Default Changelist" comment="" />
+    <list default="true" id="29140ffa-4685-4fad-b8f2-05584f5377f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngunguyen/greatestvalue/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngunguyen/greatestvalue/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngunguyen/greatestvalue/resources/ReadFile" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngunguyen/greatestvalue/resources/ReadFile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +19,14 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YXaZ65RfWsqzGoWypG45IwyKWY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -55,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583091444175</updated>
-      <workItem from="1583091448456" duration="1501000" />
+      <workItem from="1583091448456" duration="1786000" />
+      <workItem from="1583094544899" duration="81000" />
     </task>
     <servers />
   </component>
@@ -63,21 +73,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1385" height="198" key="GridCell.Tab.0.bottom" timestamp="1583092962559">
+    <state width="1385" height="198" key="GridCell.Tab.0.bottom" timestamp="1583094615288">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1385" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583092962559" />
-    <state width="1385" height="198" key="GridCell.Tab.0.center" timestamp="1583092962559">
+    <state width="1385" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583094615288" />
+    <state width="1385" height="198" key="GridCell.Tab.0.center" timestamp="1583094615288">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1385" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583092962559" />
-    <state width="1385" height="198" key="GridCell.Tab.0.left" timestamp="1583092962558">
+    <state width="1385" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583094615288" />
+    <state width="1385" height="198" key="GridCell.Tab.0.left" timestamp="1583094615287">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1385" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583092962558" />
-    <state width="1385" height="198" key="GridCell.Tab.0.right" timestamp="1583092962559">
+    <state width="1385" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583094615287" />
+    <state width="1385" height="198" key="GridCell.Tab.0.right" timestamp="1583094615288">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1385" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583092962559" />
+    <state width="1385" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583094615288" />
   </component>
 </project>

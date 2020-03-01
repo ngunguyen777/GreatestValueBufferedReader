@@ -7,14 +7,13 @@ import java.io.IOException;
 
 public class Main {
 
-    public static void main(String[] args) throws FileNotFoundException {
-        //Pathname may required changes if you Forked this project.
-        BufferedReader br = new BufferedReader(new FileReader("/Users/ngunguyen/Documents/" +
-                                                            "JavaProjects/GreatestValueBufferedReader/src/com/" +
-                                                            "ngunguyen/greatestvalue/resources/ReadFile"));
+    public static void main(String[] args) {
 
         String line = "";
         try {
+            //Pathname may required changes if you Forked this project.
+            BufferedReader br = new BufferedReader(new FileReader("/Users/ngunguyen/Documents/JavaProjects/GreatestValueBufferedReader/src/com/ngunguyen/greatestvalue/resources/ReadFile"));
+
             while((line = br.readLine()) != null){
                 getGreatestValue(line);
             }
